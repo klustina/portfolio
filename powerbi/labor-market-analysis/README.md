@@ -14,6 +14,6 @@ Power BI Desktop, DAX, CSV
 
 ## Превью
 
-[![Регионы](https://github.com/klustina/powerbi-labor-market-analysis/raw/main/screenshots/regions.png)](screenshots/regions.png)
-[![Отрасли](https://github.com/klustina/powerbi-labor-market-analysis/raw/main/screenshots/industries.png)](screenshots/industries.png)
-[![Возрастные группы](https://github.com/klustina/powerbi-labor-market-analysis/raw/main/screenshots/age_groups.png)](screenshots/age_groups.png)
+![Регионы](regions.png)
+![Отрасли](industries.png)
+![Возрастные группы](age_groups.png)
